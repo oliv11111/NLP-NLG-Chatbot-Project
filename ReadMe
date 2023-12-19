@@ -1,4 +1,4 @@
-```markdown
+
 # General Knowledge Q&A Chatbot [S.A.M]
 ## Table of Contents
 - [Description](#description)
@@ -53,4 +53,3 @@ The chatbot has the ability to understand the intent of the user's input and res
 
 ## Future Development
 To enhance the effectiveness of the chatbot, future development could focus on incorporating additional data sources. Expanding the general knowledge dataset with more diverse and extensive information would enable the chatbot to provide more accurate and comprehensive answers. Additionally, including data on specific topics, recent events, or trending subjects would keep the chatbot's knowledge up-to-date and relevant. Continuous improvement and enrichment of the dataset will contribute to a more robust and knowledgeable chatbot for users.
-```
