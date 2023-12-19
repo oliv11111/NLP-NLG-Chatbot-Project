@@ -1,0 +1,5 @@
+# General Knowledge Chatbot (S.A.M)
+### Steps to use:
+* Enter HAI_CW1 project file on cmd line
+* Use python command to run main file ("python main.py")
+* Use stop words to terminate program ('bye', 'goodbye')
